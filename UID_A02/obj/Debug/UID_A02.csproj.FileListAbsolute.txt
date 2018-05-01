@@ -1,0 +1,29 @@
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\bin\Debug\UID_A02.exe.config
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\bin\Debug\UID_A02.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\bin\Debug\UID_A02.pdb
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.Properties.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.pdb
+C:\Users\Public\Documents\Visual Studio 2017\Projects\UID_A02\UID_A02\obj\Debug\UID_A02.TabOne.resources
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.TabOne.resources
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.Properties.Resources.resources
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.csproj.GenerateResource.Cache
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.csproj.CoreCompileInputs.cache
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.exe
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.pdb
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.exe.config
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.exe
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.pdb
+\\FSSTU02D\Stu4\Home\Jmarkic8674\Year 3\UID\Projects\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.csprojResolveAssemblyReference.cache
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.exe.config
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.exe
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.pdb
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.TabOne.resources
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.Properties.Resources.resources
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.csproj.GenerateResource.Cache
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.exe
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\bin\Debug\UID_A02.pdb
+C:\Users\jmar8\Desktop\Assignment02\UID_A02\UID_A02\obj\Debug\UID_A02.csprojResolveAssemblyReference.cache

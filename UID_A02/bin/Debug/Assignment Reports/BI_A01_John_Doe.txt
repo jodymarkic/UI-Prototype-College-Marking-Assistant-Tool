@@ -1,0 +1,57 @@
+Project Name:
+
+
+	BI_A01.sln
+
+
+Project Owner:
+
+
+	John Doe
+
+
+Project Loads:
+
+
+	y\n? : yes
+
+
+Project Compiles:
+
+
+	y\n? : yes
+
+
+Project Runs:
+
+
+	y\n? : yes
+
+
+Commenting Coverage:
+
+
+  Cumulative Coverage: 31.00%
+
+
+	Individual Files Commenting Coverage:
+
+
+	filename: MyForm.cs		percent: 33 %
+
+	filename: MyForm.Designer.cs		percent: 42 %
+
+	filename: Program.cs		percent: 20 %
+
+Plagurism Report:
+
+
+	N\A
+
+
+Teachers Notes:
+
+
+	N\A
+
+
